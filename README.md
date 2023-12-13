@@ -9,6 +9,6 @@ Click Bellow to see more information about ** StickyPallet **
 - [STICKYPALLET](./COLOR.md)
 
 I made StickyPallet my first official paid software as there aren´t many one time purchase options 
-of its class, so i decided to go and fully program ** StickyPallet ** as my first ** actual ** published software.
+of its class, so i decided to go and fully program **StickyPallet** as my first **actual** published software.
 
-i have programmed ** StickyPallet ** from the ground up ** 100% Python ** 
+i have programmed **StickyPallet** from the ground up **100% Python** 
