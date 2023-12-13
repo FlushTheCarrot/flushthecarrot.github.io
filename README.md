@@ -3,5 +3,5 @@
 
 ## Current Projects
 
-### StickyPallet 
+# StickyPallet 
 ## Color Pallete Generator
