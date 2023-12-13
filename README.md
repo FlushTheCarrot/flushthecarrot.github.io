@@ -6,4 +6,4 @@
 # StickyPallet 
 ## Simple Color Pallete Generator.
 
-![alt text](image.jpg)
+![alt text](/MEDIA/ezgif.com-effects.gif)
