@@ -8,7 +8,7 @@
 Click Bellow to see more information about **StickyPallet**
 - [STICKYPALLET](./COLOR.md)
 
-  ![alt text](/MEDIA/ezgif.com-effects.gif)
+  ![alt text](/MEDIA/LINKEDICON.png)
 
 I made StickyPallet my first official paid software as there aren´t many one time purchase options 
 of its class, so i decided to go and fully program **StickyPallet** as my first **actual** published software.
