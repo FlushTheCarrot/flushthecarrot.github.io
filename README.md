@@ -4,4 +4,6 @@
 ## Current Projects
 
 # StickyPallet 
-## Color Pallete Generator
+## Simple Color Pallete Generator.
+
+![alt text](image.jpg)
