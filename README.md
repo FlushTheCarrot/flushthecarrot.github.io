@@ -5,7 +5,7 @@
 
 # StickyPallet 
 ## Simple Color Pallete Generator.
-Click Bellow to see more information about **StickyPallet**
+### Click Bellow to see more information about **StickyPallet** ###
 - [STICKYPALLET](./COLOR.md)
 
   ![alt text](/MEDIA/LINKEDICON.png)
