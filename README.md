@@ -6,6 +6,6 @@
 # StickyPallet 
 ## Simple Color Pallete Generator.
 Click Bellow to see more information about ** StickyPallet **
-- [file path to another document](./COLOR.md)
+- [STICKYPALLET](./COLOR.md)
 
 ![alt text](/MEDIA/ezgif.com-effects.gif)
