@@ -21,7 +21,7 @@ I have programmed **StickyPallet** from the ground up using **100% Python**.
 ### Godot HTML5 Project
 **Interactive Godot Project Demo.**
 
-- [Play the Godot Project](path/to/your/htmlfile.html)
+- [Play the Godot Project](MEDIA/GraphicsTest.html)
 
 This link directs you to an interactive demo of a project I developed using Godot. Feel free to check it out!
 
