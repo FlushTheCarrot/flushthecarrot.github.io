@@ -12,5 +12,6 @@
 
 I made StickyPallet my first official paid software as there aren´t many one time purchase options 
 of its class, so i decided to go and fully program **StickyPallet** as my first **actual** published software.
+[Graphics Editor][MEDIA/GraphicsTest.html]
 
 i have programmed **StickyPallet** from the ground up **100% Python** 
